@@ -1,4 +1,4 @@
-project.xcworkspace/
-xcuserdata/
+project.xcworkspace
+xcuserdata
 .DS_Store
 Build
